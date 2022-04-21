@@ -11,6 +11,6 @@ The purpose was to use unsupervised machine learning to determine what cryptocur
 - Software and Programming Languages: Jupyter Notebook v. 6.4.6; Python v. 3.8.3 :: Anaconda, Inc.; conda v. 4.11.0; scikit-learn v. 0.23.1:: Anaconda, Inc.
 
 ## Results
-
+PCA was used to reduce preprocessed data to three dimensions after data were scaled.  An elbow curve indicated that four clusters 
 
 ## Summary
